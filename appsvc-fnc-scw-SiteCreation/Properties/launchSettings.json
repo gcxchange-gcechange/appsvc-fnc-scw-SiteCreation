@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "appsvc_fnc_scw_SiteCreation": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7185",
+      "launchBrowser": false
+    }
+  }
+}
